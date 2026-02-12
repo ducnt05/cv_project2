@@ -68,10 +68,13 @@
   border-style: solid;
   border-color: rgb(235, 236, 234);
   display: flex;
-  justify-content: flex-end;
+  flex-direction: column;
+  align-items: flex-end;
   padding-right: 5%;
+  gap: 2%;
 }
-.container .row5 .contact {
+.container .row5 .contact,
+.container .row5 .donate {
   color: rgb(127, 132, 192);
 }
 a {
@@ -96,4 +99,5 @@ a {
     margin-left: 5%;
     margin-top: 10px;
   }
+  
 }
