@@ -69,6 +69,7 @@
   border-color: rgb(235, 236, 234);
   display: flex;
   justify-content: flex-end;
+  padding-right: 5%;
 }
 .container .row5 .contact {
   color: rgb(127, 132, 192);
