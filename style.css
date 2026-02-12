@@ -67,10 +67,10 @@
   border: 2%;
   border-style: solid;
   border-color: rgb(235, 236, 234);
+  display: flex;
+  justify-content: flex-end;
 }
 .container .row5 .contact {
-  display: flex;
-  margin-left: 80%;
   color: rgb(127, 132, 192);
 }
 a {
