@@ -1,1 +1,1 @@
-alert("Xin chào bạn!");
+prompt("Nhập số tuổi của bạn!");
