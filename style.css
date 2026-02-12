@@ -80,18 +80,19 @@ a {
 }
 @media (max-width: 768px) {
   .container .row1 {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     text-align: center;
+    gap: 20px;
   }
 
   .container .row1 .name {
-    margin-left: 0;
+    margin-left: 5%;
     margin-top: 10px;
   }
 
   .container .row1 .infomation {
-    margin-left: 0;
+    margin-left: 5%;
     margin-top: 10px;
   }
 }
